@@ -6,5 +6,5 @@ python-разработчик
 - pygame
 - flask
 
-## мои проекты:
+## Мои проекты:
 -[ии которое может классифицировать вид животного]https://github.com/Tikhon26/classifier-ai
